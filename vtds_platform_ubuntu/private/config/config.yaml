@@ -130,7 +130,7 @@ platform:
     python:
       blade_classes: null
       packages:
-        - python3.10
+        - python3
       preconfig_settings: []
       services_enable: []
       services_disable: []
@@ -142,7 +142,7 @@ platform:
       blade_classes: null
       packages:
         - python3-pip
-        - python3.10-venv
+        - python3-venv
         - git
       preconfig_settings: []
       services_enable: []
