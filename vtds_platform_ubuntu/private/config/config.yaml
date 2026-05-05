@@ -144,6 +144,7 @@ platform:
         - python3-pip
         - python3-venv
         - git
+        - pkg-config
       preconfig_settings: []
       services_enable: []
       services_disable: []
